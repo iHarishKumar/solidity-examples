@@ -1,6 +1,6 @@
 # 🔥 Solidity Playbook | Ownership Pattern Example
 
-[![Solidity Version](https://img.shields.io/badge/Solidity-^0.8.20-3C3C3D?logo=solidity&logoColor=white)](https://docs.soliditylang.org/en/v0.8.20/)
+[![Solidity Version](https://img.shields.io/badge/Solidity-^0.8.24-3C3C3D?logo=solidity&logoColor=white)](https://docs.soliditylang.org/en/v0.8.24/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Foundry](https://img.shields.io/badge/Built_with-Foundry-FFDB1C.svg?logo=ethereum)](https://getfoundry.sh/)
 [![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4.9.3-4E8EE9?logo=openzeppelin)](https://docs.openzeppelin.com/contracts/4.x/)
