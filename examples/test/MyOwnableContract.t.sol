@@ -2,7 +2,7 @@
 pragma solidity ^0.8.24;
 
 import {Test, console2} from "forge-std/Test.sol";
-import {MyOwnableContract} from "../src/MyOwnableContract.sol";
+import {MyOwnableContract} from "../src/Ownable2/MyOwnableContract.sol";
 import {Ownable} from "@openzeppelin/contracts/access/Ownable.sol";
 
 contract MyOwnableContractTest is Test {
